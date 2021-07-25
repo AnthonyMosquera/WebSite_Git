@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  
+}
+#titulo {
+    color: #8a8a8a;
+    text-align: center;
+}
+.nav {
+    text-align: center;
+}
+#subtitulo {
+    color: #8a8a8a;
+    text-align: center;
+}
+#subtitulo:hover{
+     color: burlywood;
+}
+#imagen {
+    width: 300px;
+}
+#footer {
+    text-align: center;
+    font-size: 8px;
+    background: #8a8a8a;
+    color: white;
+}
